@@ -1,0 +1,134 @@
+body,html
+{
+	background: #aaa;
+}
+.Header
+{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+.Header-title
+{
+	font-family: 'Oswald', sans-serif;
+	font-size: 60px;
+	color: white;
+	margin-bottom: 2px;
+
+}
+.Header-instruction
+{
+	margin-top: 2px;
+	color: #222;
+	font-family: arial;
+}
+.Row
+{
+	width: 80%;
+	margin: 0 auto ;
+	padding-top:10px; 
+	display: block;
+	text-align: center;
+}
+.Row-title
+{
+	font-family: 'Oswald', sans-serif;
+	color: white;
+}
+.btn
+{
+	width: 250px;
+	height: 70px;
+	margin:15px;
+	font-family: 'Oswald', sans-serif;
+}
+.ghost1
+{
+	background: transparent;
+	border:2px solid white;
+	color: white;
+}
+.ghost1:hover
+{
+	background: #069;
+	border:2px solid #069;
+	color: white;	
+}
+.ghost2
+{
+	background:#096;
+	border:2px solid #096;
+	color: white;
+}
+.ghost2:hover
+{
+	background: transparent;
+	border:2px solid white;
+	color: white;
+}
+.ghost3
+{
+	background: transparent;
+	border:2px solid Aqua;
+	font-family: 'Oswald', sans-serif;
+	color:Aqua;
+}
+.ghost3:hover
+{
+	background: transparent;
+	border:2px solid white;
+	color: white;
+}
+.Flat1
+{
+  	background:#009688;
+  	border: none;
+  	color: white;
+  	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+}
+.Flat2
+{
+	background: #ff9800;
+	border: none;
+	color: white;
+}
+.Flat2:hover
+{
+	font-size: 16px;
+	background: #f57c00;
+}
+.Flat3
+{
+	background:#f06292;
+	border: none;
+	border-bottom: 5px solid #ec407a;
+	color: white;
+}
+.Other1
+{
+	  background: #43a047;
+	  border-radius: 10px;
+	  border:none;
+	  border-bottom: 5px solid #2e7d32;
+	  border-right: 5px solid #2e7d32;
+	  color: white;
+}
+.Other2
+{
+	  background: #2196f3;
+	  border-radius: 50px;
+	  border:none;
+	  color: white;
+}
+.Other3
+{
+	color: white;
+	background: #666;
+	border: none;
+}
+.Other3:hover
+{
+	border-radius: 50px;
+}
